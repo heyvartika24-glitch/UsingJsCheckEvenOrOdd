@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+header{
+    margin-top: 5rem;
+}
+img{
+    margin-top: 2rem;
+}
